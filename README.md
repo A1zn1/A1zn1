@@ -23,6 +23,6 @@ Linguagens💡
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a1zn1&theme=great-gatsby&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A1zn1&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A1zn1&theme=great-gatsby&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a1zn1&theme=blue-green)
 
