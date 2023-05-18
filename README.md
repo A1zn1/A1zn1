@@ -13,7 +13,7 @@ Bem-vindo(a) ao meu perfil do GitHub!
 ##
 <a href="https://www.instagram.com/gastuv0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:gustavo.sarubbi1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/gustavo-sarubbi-b89904272/" target="_blank">
+<a href="https://www.linkedin.com/in/gustavo-sarubbi" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 #
