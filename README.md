@@ -23,5 +23,16 @@ Linguagens💡
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosarubbi&theme=great-gatsby&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosarubbi&layout=compact&theme=great-gatsby&show_icons=true)](https://github.com/gustavosarubbi/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <!-- Primeiro card -->
+      <img src="https://github-readme-stats.vercel.app/api?username=gustavosarubbi&theme=great-gatsby&show_icons=true" alt="Anurag's GitHub stats" />
+    </td>
+    <td>
+      <!-- Segundo card -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosarubbi&layout=compact&theme=great-gatsby&show_icons=true" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
