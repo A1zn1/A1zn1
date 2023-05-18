@@ -24,5 +24,5 @@ Linguagens💡
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosarubbi&theme=great-gatsby&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a1zn1&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosarubbi&theme=blue-green)
 
